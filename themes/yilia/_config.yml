@@ -2,19 +2,20 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  框架: /tags/框架
+  工具: /tags/工具
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/ArvinQi"
+  weibo: "http://weibo.com/u/3015636227/home?topnav=1&wvr=6"
+  # rss: "#"
+  # zhihu: "#"
   #qq: "#"
   #weixin: "#"
-  #jianshu: "#"
+  # jianshu: "#"
   #douban: "#"
-  #segmentfault: "#"
+  # segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
   #mail: "mailto:litten225@qq.com"
@@ -45,9 +46,9 @@ open_in_new: false
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
 
 # 打赏基础设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 0
 # 打赏wording
-reward_wording: '谢谢你请我吃糖果'
+reward_wording: '👍'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: 
 # 微信二维码图片地址
@@ -59,7 +60,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: '/images/avatar.jpg'
 
 #是否开启分享
 share_jia: true
@@ -99,15 +100,10 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: false
   aboutme: '关于我'
 
 friends:
   友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 很开心<br><br>你能看到<br>谢谢！
