@@ -1,7 +1,7 @@
 ---
 title: angular学习笔记
 date: 2017-06-07 14:26:28
-tags: [框架,angular1.0]
+tags: [框架,angular1.0, angular]
 ---
 这个很久之前学习的，最近趁着项目重构复习下angular，随便做个笔记，以便学习交流。
 
